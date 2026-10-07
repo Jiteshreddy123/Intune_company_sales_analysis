@@ -6,7 +6,6 @@ This dashboard was developed using real-world retail transaction data provided d
 I delivered this final analysis back to the store management team to assist them in data-driven decision-making, specifically focusing on inventory optimization, customer demographic targeting, and staff allocation during peak revenue days.
 
 ## 📈 Dashboard Preview
-![INTUNE Sales Dashboard](./images/dashboard.png)
 *[Click here to view the full PDF report directly in your browser](https://github.com/user-attachments/files/33163673/Retail_Sales_Analysis.pdf)*
 
 ## 💡 Key Business Insights Delivered
